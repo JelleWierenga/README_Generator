@@ -18,4 +18,4 @@ This script is released under the [MIT License](https://opensource.org/licenses/
 
 ## Disclaimer
 
-this README is made with chatGPT using this sript
+this README is made with chatGPT using this script
