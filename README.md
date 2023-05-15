@@ -15,3 +15,7 @@ To use this script, first make sure you have all the requirements installed. You
 ## License
 
 This script is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Disclaimer
+
+this README is made with chatGPT using this sript
